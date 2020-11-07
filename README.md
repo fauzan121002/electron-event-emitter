@@ -21,4 +21,4 @@ npm start
 
 ## License
 
-[CC0 1.0 (Public Domain)](LICENSE.md)
+This repository is under [MIT License](LICENSE.md)
